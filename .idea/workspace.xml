@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249c6b57-5254-4d3c-87e4-b987157a221c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Instagram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/9364675fb26a.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/app.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/bcd90c1d4868.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/comment.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/edit.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/find.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/home.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/logoinsta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/love.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/message.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/post.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/pp1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/pp2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/pp3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/pp4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/save.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/share.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/statusadd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/upload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/upload1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram-frontend/src/images/—Pngtree—instagram icon instagram logo_3588824.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram-frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/instagram-frontend/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/instagram-frontend/src/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -73,6 +46,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/instagram-frontend/src/images" />
       <recent name="$PROJECT_DIR$/instagram-frontend/src" />
     </key>
   </component>
@@ -86,7 +60,10 @@
       <updated>1619765936523</updated>
       <workItem from="1619765937813" duration="444000" />
       <workItem from="1619766385058" duration="3670000" />
-      <workItem from="1619788842359" duration="746000" />
+      <workItem from="1619788842359" duration="7217000" />
+      <workItem from="1619798875549" duration="6000" />
+      <workItem from="1619833624190" duration="925000" />
+      <workItem from="1619893023393" duration="958000" />
     </task>
     <servers />
   </component>
