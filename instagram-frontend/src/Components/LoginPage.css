@@ -1,15 +1,95 @@
-.loginpage_main{
+body {
+    background-color: #FAFAFA;
+}
+
+.loginpage_main {
     display: flex;
-    margin-top: 20px;
+    margin-top: 80px;
 }
-.loginpage_logo{
-    width:175px;
+
+.loginpage_logo {
+    width: 175px;
+    margin-top: 25px;
 }
-.loginpage_rightcomponent{
+
+.loginpage_rightcomponent {
 
     height: 380px;
     width: 350px;
     border: solid 1px #DBDBDB;
-    margin-top: 35px;
+    margin-top: 40px;
     text-align: center;
+    background-color: white;
+    margin-left: 30px;
+}
+
+.loginpage_signin {
+
+    margin-top: 25px;
+}
+
+.loginpage_text {
+    width: 258px;
+    height: 36px;
+    margin: 5px;
+    border: 1px solid #DBDBDB;
+    background-color: #FAFAFA;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.loginpage_button {
+    width: 275px;
+    height: 36px;
+    background-color: #0095F7;
+    border-radius: 5px;
+    border-color: white;
+    border: #FAFAFA;
+    color: white;
+
+}
+
+.logor {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 47px;
+}
+
+.login_or {
+    color: #D8D1B4;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: -5px;
+    font-size: 15px;
+
+}
+
+.logindash {
+    width: 90px;
+    height: 0px;
+    border: 1px solid;
+    border-color: #DBDBDB;
+
+
+}
+
+.fb {
+    color: #385185;
+    margin-top: 8px;
+}
+
+.fb_forget {
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 12px;
+    text-align: center;
+    color: #385185;
+}
+
+.signup {
+    border: solid 1px #DBDBDB;
+    width: 351px;
+    margin-left: 30px;
+    background-color: white;
+    margin-top: 35px;
 }
