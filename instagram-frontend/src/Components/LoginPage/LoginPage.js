@@ -1,9 +1,12 @@
 import React, {Component} from 'react';
 import './LoginPage.css'
 import Grid from '@material-ui/core/Grid';
-import insta_image from '../images/9364675fb26a.svg'
-import insta_logo from '../images/logoinsta.png'
-import fb from '../images/fb.png'
+import insta_image from '../../images/9364675fb26a.svg'
+import insta_logo from '../../images/logoinsta.png'
+import fb from '../../images/fb.png'
+import appstore from '../../images/app.png'
+import playstore from '../../images/play.png'
+import SignIn from "../Signin/SignIn";
 
 class LoginPage extends Component {
     constructor(props) {
@@ -21,17 +24,15 @@ class LoginPage extends Component {
                     <Grid item xs={6}>
                         <div className={"loginpage_main"}>
                             <div>
-                                <img src={insta_image} width={"454px"}/>
+                                <img src={insta_image} width={"465px"} alt={"Instagram"}/>
                             </div>
                             <div>
                                 <div className={"loginpage_rightcomponent"}>
-                                    <img className={"loginpage_logo"} src={insta_logo}/>
+                                    <img className={"loginpage_logo"} src={insta_logo} alt={"insta log"}/>
 
                                     <div className={"loginpage_signin"}>
-                                        <input className={"loginpage_text"} type={"text"}
-                                               placeholder={"Phone number, username, or email"}/>
-                                        <input className={"loginpage_text"} type={"Password"} placeholder={"Password"}/>
-                                        <button className={"loginpage_button"} type={"submit"}>Log In</button>
+
+                                        <SignIn/>
 
                                         <div className={"logor"}>
                                             <div className={"logindash"}></div>
@@ -40,7 +41,7 @@ class LoginPage extends Component {
                                         </div>
 
                                         <div className={"fb"}>
-                                            <img src={fb} width={"16px"} style={{marginRight: "5px"}}/>
+                                            <img src={fb} width={"16px"} style={{marginRight: "5px"}} alt={"Facebook"}/>
                                             Log in ith facebook
                                         </div>
 
@@ -48,8 +49,19 @@ class LoginPage extends Component {
                                     </div>
                                 </div>
                                 <div className={"signup"}>
-                                    <div>Don't have an acocount? SignUp</div>
-                                    <div>Already have an account? Login</div>
+                                    <div>Don't have an account? <span
+                                        style={{"fontWeight": "bold", "color": "#0595F7"}}> SignUp</span></div>
+                                    <div>Already have an account? <span
+                                        style={{"fontWeight": "bold", "color": "#0595F7"}}>Login</span></div>
+                                </div>
+                                <div>
+                                    <div style={{"text-align": "center", "margin": "15px"}}>
+                                        Get the app
+                                    </div>
+                                    <div style={{"text-align": "center","margin-left":"19px"}}>
+                                        <img src={playstore} height={"40px"} style={{"margin-right": "5px","margin-left":"10px"}} alt={"Play Store"}/>
+                                        <img src={appstore} width={"138px"} style={{"margin-left":"9px"}} alt={"app store"}/>
+                                    </div>
                                 </div>
 
                             </div>

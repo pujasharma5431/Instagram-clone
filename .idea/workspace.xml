@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="249c6b57-5254-4d3c-87e4-b987157a221c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage/LoginPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage/LoginPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -49,6 +49,9 @@
       <recent name="$PROJECT_DIR$/instagram-frontend/src/images" />
       <recent name="$PROJECT_DIR$/instagram-frontend/src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/instagram-frontend/src/Components/login" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,7 +66,10 @@
       <workItem from="1619788842359" duration="7217000" />
       <workItem from="1619798875549" duration="6000" />
       <workItem from="1619833624190" duration="925000" />
-      <workItem from="1619893023393" duration="958000" />
+      <workItem from="1619893023393" duration="1435000" />
+      <workItem from="1619957145506" duration="8975000" />
+      <workItem from="1620052184651" duration="9000" />
+      <workItem from="1620052266821" duration="2420000" />
     </task>
     <servers />
   </component>
