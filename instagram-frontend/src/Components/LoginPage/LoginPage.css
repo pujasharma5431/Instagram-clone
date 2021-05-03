@@ -14,7 +14,7 @@ body {
 
 .loginpage_rightcomponent {
 
-    height: 380px;
+    padding-bottom: 20px;
     width: 350px;
     border: solid 1px #DBDBDB;
     margin-top: 40px;

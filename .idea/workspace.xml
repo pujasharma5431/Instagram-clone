@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="249c6b57-5254-4d3c-87e4-b987157a221c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage/LoginPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage/LoginPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage/LoginPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage/LoginPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/LoginPage/LoginPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <workItem from="1619893023393" duration="1435000" />
       <workItem from="1619957145506" duration="8975000" />
       <workItem from="1620052184651" duration="9000" />
-      <workItem from="1620052266821" duration="2420000" />
+      <workItem from="1620052266821" duration="5433000" />
     </task>
     <servers />
   </component>

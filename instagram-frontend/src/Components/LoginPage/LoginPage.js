@@ -7,11 +7,21 @@ import fb from '../../images/fb.png'
 import appstore from '../../images/app.png'
 import playstore from '../../images/play.png'
 import SignIn from "../Signin/SignIn";
+import SignUp from "../SignUp/SignUp";
 
 class LoginPage extends Component {
     constructor(props) {
         super(props);
-        this.state = {}
+        this.state = {
+            isLogin: true
+        }
+    }
+
+    changeLogin = () => {
+        if (this.state.isLogin)
+            this.setState({isLogin: false})
+        else
+            this.setState({isLogin: true})
     }
 
     render() {
@@ -32,7 +42,9 @@ class LoginPage extends Component {
 
                                     <div className={"loginpage_signin"}>
 
-                                        <SignIn/>
+
+                                        {this.state.isLogin ? <SignIn/> : <SignUp/>}
+
 
                                         <div className={"logor"}>
                                             <div className={"logindash"}></div>
@@ -42,25 +54,37 @@ class LoginPage extends Component {
 
                                         <div className={"fb"}>
                                             <img src={fb} width={"16px"} style={{marginRight: "5px"}} alt={"Facebook"}/>
-                                            Log in ith facebook
+                                            Log in with facebook
                                         </div>
 
                                         <div className={"fb_forget"}>Forget password?</div>
                                     </div>
                                 </div>
                                 <div className={"signup"}>
-                                    <div>Don't have an account? <span
-                                        style={{"fontWeight": "bold", "color": "#0595F7"}}> SignUp</span></div>
-                                    <div>Already have an account? <span
-                                        style={{"fontWeight": "bold", "color": "#0595F7"}}>Login</span></div>
+
+                                    {
+                                        this.state.isLogin ?
+                                            <div>Don't have an account? <span
+                                                style={{"fontWeight": "bold", "color": "#0595F7","cursor":"pointer"}}
+                                                onClick={this.changeLogin}> SignUp</span>
+                                            </div>
+                                            :
+                                            <div>Already have an account? <span
+                                                style={{"fontWeight": "bold", "color": "#0595F7","cursor":"pointer"}}
+                                                onClick={this.changeLogin} >Login</span></div>
+                                    }
                                 </div>
+
+
                                 <div>
                                     <div style={{"text-align": "center", "margin": "15px"}}>
                                         Get the app
                                     </div>
-                                    <div style={{"text-align": "center","margin-left":"19px"}}>
-                                        <img src={playstore} height={"40px"} style={{"margin-right": "5px","margin-left":"10px"}} alt={"Play Store"}/>
-                                        <img src={appstore} width={"138px"} style={{"margin-left":"9px"}} alt={"app store"}/>
+                                    <div style={{"text-align": "center", "margin-left": "19px"}}>
+                                        <img src={playstore} height={"40px"}
+                                             style={{"margin-right": "5px", "margin-left": "10px"}} alt={"Play Store"}/>
+                                        <img src={appstore} width={"138px"} style={{"margin-left": "9px"}}
+                                             alt={"app store"}/>
                                     </div>
                                 </div>
 
