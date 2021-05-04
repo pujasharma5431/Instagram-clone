@@ -1,0 +1,9 @@
+.story_box{
+    height: 118px;
+    width: 614px;
+    border: 1px solid;
+    background-color: white;
+    margin: 40px 120px;
+    border-radius: 5px ;
+    border-color: #DBDBDB;
+}

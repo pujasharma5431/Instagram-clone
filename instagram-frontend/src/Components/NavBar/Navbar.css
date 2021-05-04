@@ -1,0 +1,26 @@
+.navbar_barContent{
+
+    background-color: white;
+    border: 1px solid #DBDBDB ;
+    height:65px ;
+}
+.icon_Navbar{
+margin-top: 5px;
+}
+.navbar_img{
+    margin: 20px 0px ;
+}
+.avatar{
+    margin-top: 19px;
+    max-width: 25px;
+    max-height: 25px;
+}
+.search_navbar{
+    width: 215px;
+    height: 30px;
+    background-color: #FAFAFA;
+    border: solid 1px #DBDBDB;
+    margin-top: 20px;
+    border-radius: 5px;
+
+}
