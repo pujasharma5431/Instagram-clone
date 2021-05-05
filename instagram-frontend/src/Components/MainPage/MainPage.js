@@ -1,10 +1,15 @@
 import React, {Component} from 'react';
+import Post from "../Post/Post";
 
 class MainPage extends Component {
     render() {
         return (
             <div>
-                Main Page
+                <Post/>
+                <Post/>
+                <Post/>
+                <Post/>
+
             </div>
         );
     }
