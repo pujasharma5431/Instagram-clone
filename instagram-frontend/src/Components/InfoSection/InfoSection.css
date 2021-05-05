@@ -1,0 +1,15 @@
+.infosection_container {
+    height: 56px;
+    width: 300px;
+    margin-top: 80px;
+    margin-left: 40px;
+    display: flex;
+}
+.name{
+    color: #C1C1C1;
+    font-size: 15px;
+
+}
+.info{
+    margin-left: 20px;
+}

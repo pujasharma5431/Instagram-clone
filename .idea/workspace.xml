@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="249c6b57-5254-4d3c-87e4-b987157a221c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/MainPage/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/MainPage/MainPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/Post/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/Post/Post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/StoryBar/StoryBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/StoryBar/StoryBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/MainContent/MainContent.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/MainContent/MainContent.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +78,7 @@
       <workItem from="1620052266821" duration="6719000" />
       <workItem from="1620097702528" duration="12675000" />
       <workItem from="1620184335089" duration="1816000" />
-      <workItem from="1620192787209" duration="15158000" />
+      <workItem from="1620192787209" duration="18851000" />
     </task>
     <servers />
   </component>
