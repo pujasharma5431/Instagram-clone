@@ -63,7 +63,7 @@ class LoginPage extends Component {
                                 <div className={"signup"}>
 
                                     {
-                                        this.state.isLogin ?
+                                        (this.state.isLogin )?
                                             <div>Don't have an account? <span
                                                 style={{"fontWeight": "bold", "color": "#0595F7","cursor":"pointer"}}
                                                 onClick={this.changeLogin}> SignUp</span>

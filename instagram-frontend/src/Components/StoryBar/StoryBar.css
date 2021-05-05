@@ -1,9 +1,32 @@
 .story_box{
     height: 118px;
     width: 614px;
-    border: 1px solid;
+    border: 1px solid #DBDBDB;
     background-color: white;
     margin: 40px 120px;
     border-radius: 5px ;
-    border-color: #DBDBDB;
+    display: flex;
+    overflow: scroll;
+}
+.story_box::-webkit-scrollbar{
+    display: none;
+}
+
+.username{
+    font-size: 12px;
+    max-width: 70px;
+    overflow-x: hidden;
+    text-align: center;
+}
+
+.story{
+margin-top: 16px;
+    padding-left: 20px;
+}
+.story_avatar{
+
+
+    min-width: 64px;
+    min-height: 64px;
+    border: 4px double #DBDBDB;
 }

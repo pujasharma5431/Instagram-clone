@@ -8,13 +8,13 @@ class MainContent extends Component {
         return (
             <div>
                <Grid container>
-                   <Grid item xs={2}>Grid1</Grid>
+                   <Grid item xs={2}></Grid>
                    <Grid item xs={6}>
                    <StoryBar/>
                    <MainPage/>
                    </Grid>
-                   <Grid item xs={3}>Grid 3</Grid>
-                   <Grid item xs={1}>Grid 4</Grid>
+                   <Grid item xs={3}></Grid>
+                   <Grid item xs={1}></Grid>
                </Grid>
             </div>
         );
