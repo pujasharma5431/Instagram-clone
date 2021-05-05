@@ -11,11 +11,11 @@ class MainContent extends Component {
             <div>
                <Grid container>
                    <Grid item xs={3}></Grid>
-                   <Grid item xs={4}>
+                   <Grid item xs={6}>
                    <StoryBar/>
                    <MainPage/>
                    </Grid>
-                   <Grid item xs={4}>
+                   <Grid item xs={2}>
                        <InfoSection/>
                        <Suggestions/>
                    </Grid>
