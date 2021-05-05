@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="249c6b57-5254-4d3c-87e4-b987157a221c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/MainContent/MainContent.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/MainContent/MainContent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/MainPage/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/MainPage/MainPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/StoryBar/StoryBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/StoryBar/StoryBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/Post/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/Post/Post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram-frontend/src/Components/StoryBar/StoryBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/instagram-frontend/src/Components/StoryBar/StoryBar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1rsXnLMcmhNOgiligM9ekwPQN7V" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -72,7 +82,7 @@
       <workItem from="1620052266821" duration="6719000" />
       <workItem from="1620097702528" duration="12675000" />
       <workItem from="1620184335089" duration="1816000" />
-      <workItem from="1620192787209" duration="8377000" />
+      <workItem from="1620192787209" duration="15158000" />
     </task>
     <servers />
   </component>

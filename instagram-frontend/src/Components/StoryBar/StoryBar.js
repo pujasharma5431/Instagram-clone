@@ -27,15 +27,15 @@ class StoryBar extends Component {
                 "imageURL": "https://res.cloudinary.com/dn3kohivv/image/upload/v1620202290/WhatsApp_Image_2021-05-04_at_6.46.50_PM_zfjjxj.jpg"
             },
             {
-                "username": "arjun",
-                "imageURL": "https://res.cloudinary.com/dn3kohivv/image/upload/v1617037181/medium_hero_image_13ec18f3f3.png"
+                "username": "meena",
+                "imageURL": "https://res.cloudinary.com/dn3kohivv/image/upload/v1620219852/viber_image_2021-05-04_17-43-27_o5kian.jpg"
             },
             {
                 "username": "aarjoo",
                 "imageURL": "https://res.cloudinary.com/dn3kohivv/image/upload/v1620202290/WhatsApp_Image_2021-05-04_at_6.47.58_PM_bxcpsm.jpg"
             },
             {
-                "username": "budi",
+                "username": "madam",
                 "imageURL": "https://res.cloudinary.com/dn3kohivv/image/upload/v1620202290/WhatsApp_Image_2021-05-04_at_6.46.52_PM_uktgyn.jpg"
             },
             {
@@ -44,9 +44,15 @@ class StoryBar extends Component {
             },
 
             {
-                "username":"Travel",
-                "imageURL":"https://res.cloudinary.com/dn3kohivv/image/upload/v1620203036/arj_vlfl8n.jpg"
-            }
+                "username": "Travel",
+                "imageURL": "https://res.cloudinary.com/dn3kohivv/image/upload/v1620203036/arj_vlfl8n.jpg"
+            },
+            {
+                "username": "arjun",
+                "imageURL": "https://res.cloudinary.com/dn3kohivv/image/upload/v1617037181/medium_hero_image_13ec18f3f3.png"
+            },
+
+
 
 
         ]
